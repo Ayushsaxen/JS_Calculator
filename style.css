@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(53, 139, 110);
+}
+.col-md-6{
+    margin-top: 150px !important;
+    background-color: rgb(161, 206, 191);
+    border: 2px solid black;
+}
+input[type=button]{
+    width: 100%;
+    background-color: aquamarine;
+}
+input[type=button]:hover{
+    background-color: rgb(7, 137, 94);
+}
+input[type=text]{
+    width: 100%;
+    color: blue;
+}
